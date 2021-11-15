@@ -1,4 +1,4 @@
-import 'package:first_app/screens/my_home_page.dart';
+import 'package:first_app/screens/home_page/my_home_page.dart';
 import 'package:flutter/material.dart';
 
 class CustomAppBar extends StatefulWidget {
