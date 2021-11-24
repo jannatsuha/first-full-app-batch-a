@@ -1,12 +1,11 @@
 class EmployeeModel{
  late String name;
- late String image;
  late String designation;
- late String comments;
+ late String image;
  late String phone;
  late String email;
+ late String dept;
 
- EmployeeModel(this.name, this.image,
-     this.designation, this.comments,
-      this.phone, this.email);
+ EmployeeModel(this.name, this.designation, this.image, this.phone, this.email,
+      this.dept);
 }

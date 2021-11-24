@@ -144,7 +144,22 @@ class _MyHomePageState extends State<MyHomePage> {
                   ),
                 ))
                     .toList(),
-              )
+              ),
+              ElevatedButton(
+                  onPressed: (){
+
+                  },
+                  child: Text("Button 1")),
+              ElevatedButton(
+                  onPressed: (){
+
+                  },
+                  child: Text("Button 1")),
+              ElevatedButton(
+                  onPressed: (){
+
+                  },
+                  child: Text("Button 1")),
             ],
           )
       ),
